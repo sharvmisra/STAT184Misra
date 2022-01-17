@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## STAT 184 Sharvil Misra
 
 You can use the [editor on GitHub](https://github.com/sharvmisra/STAT184Misra/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
